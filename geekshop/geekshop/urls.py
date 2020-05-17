@@ -23,3 +23,5 @@ urlpatterns = [
     path('products/', mainapp.products),
     path('contact/', mainapp.contact),
 ]
+
+
